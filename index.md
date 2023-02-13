@@ -10,7 +10,7 @@ Graphic based OOP calculator
 
 [Source Code](https://github.com/9620728/computer-programing1/upload/main/src/Calculator](https://github.com/9620728/computer-programing1/tree/main/src))
 
-###SpaceGame
+### SpaceGame
 
 ![Running SpaceGame] (https://github.com/9620728/computer-programing1/blob/main/images/SpaceGame.png?raw=true)
 
