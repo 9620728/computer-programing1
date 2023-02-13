@@ -16,8 +16,11 @@ Graphic based OOP calculator
 
 [Source Code](https://github.com/9620728/computer-programing1/upload/main/src/Calculator](https://github.com/9620728/computer-programing1/tree/main/src))
 
-###Screen Saver
+### Screen Saver
 
+![Running SpaceGame](https://github.com/9620728/computer-programing1/blob/main/images/ScreenSaver.png?raw=true)
+
+[Source Code](https://github.com/9620728/computer-programing1/upload/main/src/Calculator](https://github.com/9620728/computer-programing1/tree/main/src))
 
 ## Programing 1 Semester 2 Projects:
 
