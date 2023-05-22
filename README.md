@@ -27,8 +27,23 @@ Graphic based OOP calculator
 
 ![Cars thing](https://github.com/9620728/computer-programing1/blob/main/images/Cars.png)
 
+
+**### Shape Tester
+
+![](https://github.com/9620728/computer-programing1/blob/main/images/Shapes.png)
+
+
+### TempConv
+
+![](https://github.com/9620728/computer-programing1/blob/main/images/TempConv.png)**
+
 ## Programing 1 Semester 2 Projects:
 
 ### Shape Tester
 
 ![](https://github.com/9620728/computer-programing1/blob/main/images/Shapes.png)
+
+
+### TempConv
+
+![](https://github.com/9620728/computer-programing1/blob/main/images/TempConv.png)
