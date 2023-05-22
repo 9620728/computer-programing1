@@ -39,11 +39,3 @@ Graphic based OOP calculator
 
 ## Programing 1 Semester 2 Projects:
 
-### Shape Tester
-
-![](https://github.com/9620728/computer-programing1/blob/main/images/Shapes.png)
-
-
-### TempConv
-
-![](https://github.com/9620728/computer-programing1/blob/main/images/TempConv.png)
