@@ -1,4 +1,5 @@
-# Programming I Portfolio - Alec Peng, alecpeng9620@granitesd.org
+# Programming I Portfolio - Alec Peng 
+### @alecpeng9620@granitesd.org
 
 ### Calculator 
 ![](https://github.com/9620728/computer-programing1/blob/main/images/Calc.png)
