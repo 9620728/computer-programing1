@@ -8,7 +8,7 @@ Graphic based OOP calculator
 
 ![Running Calculator](https://github.com/9620728/computer-programing1/blob/main/images/Calc.png?raw=true)
 
-[Source Code](https://github.com/9620728/computer-programing1/upload/main/src/Calculator](https://github.com/9620728/computer-programing1/tree/main/src))
+[Source Code](https://github.com/9620728/computer-programing1/tree/main/src/Calculator)
 
 This was a coding project where we had to make a calculator and it was really fun but that most annoying part of this project where placing the buttons down on the screen. We had to place each sqaure on a certain point in space and it was really annoying.
 
