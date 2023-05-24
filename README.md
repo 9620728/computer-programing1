@@ -10,32 +10,33 @@ Graphic based OOP calculator
 
 [Source Code](https://github.com/9620728/computer-programing1/upload/main/src/Calculator](https://github.com/9620728/computer-programing1/tree/main/src))
 
+This was a coding project where we had to make a calculator and it was really fun but that most annoying part of this project where placing the buttons down on the screen. We had to place each sqaure on a certain point in space and it was really annoying.
+
+
 ### SpaceGame
 
 ![Running SpaceGame](https://github.com/9620728/computer-programing1/blob/main/images/SpaceGame.png?raw=true)
 
 [Source Code](https://github.com/9620728/computer-programing1/upload/main/src/Calculator](https://github.com/9620728/computer-programing1/tree/main/src))
 
+One of the most fun ones, it was really entertainting to make and to play with at the end of the coding.
 ### Screen Saver
-
-![Running SpaceGame](https://github.com/9620728/computer-programing1/blob/main/images/ScreenSaver.png?raw=true)
-
-[Source Code](https://github.com/9620728/computer-programing1/upload/main/src/Calculator](https://github.com/9620728/computer-programing1/tree/main/src))
 
 
 ### Cars 
 
 ![Cars thing](https://github.com/9620728/computer-programing1/blob/main/images/Cars.png)
-
-
+![Source Code](https://github.com/9620728/computer-programing1/tree/main/src/Cars)
+A really cute little project with small little cars on the screen driving around.
 **### Shape Tester
 
 ![](https://github.com/9620728/computer-programing1/blob/main/images/Shapes.png)
-
+![Source Code](https://github.com/9620728/computer-programing1/tree/main/src/shapes)
 
 ### TempConv
 
 ![](https://github.com/9620728/computer-programing1/blob/main/images/TempConv.png)
+![Source Code](https://github.com/9620728/computer-programing1/tree/main/src/TempConverter)
 
 ## Programing 1 Semester 2 Projects:
 
