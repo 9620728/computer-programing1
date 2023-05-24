@@ -33,11 +33,13 @@ A really cute little project with small little cars on the screen driving around
 ![](https://github.com/9620728/computer-programing1/blob/main/images/Shapes.png)
 ![Source Code](https://github.com/9620728/computer-programing1/tree/main/src/shapes)
 
+This was a project to help us get better at basic coding and for us to understand how to code.
 ### TempConv
 
 ![](https://github.com/9620728/computer-programing1/blob/main/images/TempConv.png)
 ![Source Code](https://github.com/9620728/computer-programing1/tree/main/src/TempConverter)
 
+This was a project that helped us expand our thoughs of coding and out basic knowlegde of coding.
 ## Programing 1 Semester 2 Projects:
 
 ### Chess Game Java Group
@@ -46,3 +48,5 @@ A really cute little project with small little cars on the screen driving around
 
 ### Chess Game Board 
 ![](https://github.com/9620728/computer-programing1/blob/main/images/update.png)
+
+![Source Page for Chess Game](https://github.com/9620728/Java-Group-1)
