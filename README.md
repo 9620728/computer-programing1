@@ -39,3 +39,5 @@ Graphic based OOP calculator
 
 ## Programing 1 Semester 2 Projects:
 
+### Chess Game Java Group
+![](https://github.com/9620728/computer-programing1/blob/main/images/Pawn_B.png)![](https://github.com/9620728/computer-programing1/blob/main/images/Pawn_W.png)![](https://github.com/9620728/computer-programing1/blob/main/images/King_B.png)![](https://github.com/9620728/computer-programing1/blob/main/images/King_W.png)![](https://github.com/9620728/computer-programing1/blob/main/images/Knight_B.png)![](https://github.com/9620728/computer-programing1/blob/main/images/Knight_W.png)![](https://github.com/9620728/computer-programing1/blob/main/images/Rook_B.png)![](https://github.com/9620728/computer-programing1/blob/main/images/Rook_W.png)![](https://github.com/9620728/computer-programing1/blob/main/images/Bishop_B.png)![](https://github.com/9620728/computer-programing1/blob/main/images/Bishop_W.png)![](https://github.com/9620728/computer-programing1/blob/main/images/Queen_B.png) ![](https://github.com/9620728/computer-programing1/blob/main/images/Queen_W.png)
