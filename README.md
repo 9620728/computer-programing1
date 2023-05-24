@@ -17,7 +17,7 @@ This was a coding project where we had to make a calculator and it was really fu
 
 ![Running SpaceGame](https://github.com/9620728/computer-programing1/blob/main/images/SpaceGame.png?raw=true)
 
-[Source Code](https://github.com/9620728/computer-programing1/upload/main/src/Calculator](https://github.com/9620728/computer-programing1/tree/main/src))
+[Source Code](https://github.com/9620728/computer-programing1/tree/main/src/Calculator%5D(https%3A/github.com/9620728/computer-programing1/tree/main/src)/SpaceGame)
 
 One of the most fun ones, it was really entertainting to make and to play with at the end of the coding.
 ### Screen Saver
